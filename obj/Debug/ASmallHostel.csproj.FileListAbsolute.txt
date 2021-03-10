@@ -1,0 +1,13 @@
+C:\Users\onuru\source\repos\ASmallHostel\bin\Debug\ASmallHostel.exe.config
+C:\Users\onuru\source\repos\ASmallHostel\bin\Debug\ASmallHostel.exe
+C:\Users\onuru\source\repos\ASmallHostel\bin\Debug\ASmallHostel.pdb
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.csprojAssemblyReference.cache
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.Properties.Resources.resources
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.csproj.GenerateResource.cache
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.csproj.CoreCompileInputs.cache
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.exe
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.pdb
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.FormVisitor.resources
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.FormAdmin.resources
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.FormAccount.resources
+C:\Users\onuru\source\repos\ASmallHostel\obj\Debug\ASmallHostel.FormRoom.resources
