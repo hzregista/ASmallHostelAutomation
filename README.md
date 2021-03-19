@@ -4,7 +4,6 @@ Automation program for a boutique hotel.
 
 Includes basic database controls (add, delete, update) and there is an admin panel with database connection. Also there is a section where you can add or delete admin in the database. I worked with three tables in which customers, rooms and authorizeds are registered. 
 
-In the code there are some checks to prevent the user from making mistakes.
 
 
 
